@@ -4,7 +4,7 @@ metadata:
   name: sach
   namespace: default
   labels:
-    app: sach
+    app: sachin sir
 spec:
   replicas: 2
   selector:
